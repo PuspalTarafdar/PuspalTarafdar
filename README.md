@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dngappdeveloper.com/images/app-development/flutter-application-development-banner.jpg)]
+![MasterHead](https://www.dngappdeveloper.com/images/app-development/flutter-application-development-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Puspal Tarafdar</h1>
 <h3 align="center">A Flutter Developer from India</h3>
